@@ -3,6 +3,7 @@ PLPBasicGitAssignment
 
 <b>STEPS TAKEN<b>
 <br>
+
 a) I opened my git bash on my device and created a directory named PLPBasicAssignment
         command: mkdir PLPBasicAssignment
         
