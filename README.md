@@ -1,14 +1,15 @@
 # PLPBasicGitAssignment
 PLPBasicGitAssignment
 
-STEPS
+<b>STEPS TAKEN<b>
+<br>
 a) I opened my git bash on my device and created a directory named PLPBasicAssignment
         command: mkdir PLPBasicAssignment
 b) Logged in to my github and created a reporsitory and i initialized a readme
 c) I navigated to my local directory
         command: cd C:/Deskop/PLPBasicAssignment
 
-d) Initialized a git repositort
+d) Initialized a git repository
         command: git init
 
 e) Connected my repository on github with my local repository
